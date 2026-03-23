@@ -10,10 +10,10 @@ Data includes fuel cell measurements like current, voltage, power, pressures, te
 ## Notebooks
 | Notebook | Target Variable | Description |
 |----------|-----------------|-------------|
-| [LSTM-ESN-Voltage.ipynb](LSTM-ESN-Voltage.ipynb) | Voltage ratio | GA-tuned ESN-LSTM for voltage prediction [file:2] |
-| [LSTM-ESN-Power-4.ipynb](LSTM-ESN-Power-4.ipynb) | Power | GA-tuned ESN-LSTM for power prediction [file:4] |
-| [LSTM-ESN-Energy-2.ipynb](LSTM-ESN-Energy-2.ipynb) | Energy | GA-tuned ESN-LSTM for energy prediction [file:1] |
-| [LSTM-ESN-Energy-cathode-inlet-3.ipynb](LSTM-ESN-Energy-cathode-inlet-3.ipynb) | Energy (cathode inlet focus) | Variant focusing on cathode inlet conditions [file:3] |
+| LSTM-ESN-Voltage.ipynb | Voltage ratio | GA-tuned ESN-LSTM for voltage prediction [file:2] |
+| LSTM-ESN-Power-4.ipynb | Power | GA-tuned ESN-LSTM for power prediction [file:4] |
+| LSTM-ESN-Energy-2.ipynb| Energy | GA-tuned ESN-LSTM for energy prediction [file:1] |
+| LSTM-ESN-Energy-cathode-inlet-3.ipynb | Energy (cathode inlet focus) | Variant focusing on cathode inlet conditions [file:3] |
 
 ## Key Features
 - Custom Keras ESN layer implementation[file:2]
